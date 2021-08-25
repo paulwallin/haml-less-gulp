@@ -1,0 +1,19 @@
+{
+    "name": "haml-less-gulp",
+    "version": "1.0.0",
+    "description": "Developement environment for HAML, LESS and gulp",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Paul Wallin",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^2.27.5",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^6.1.0",
+        "gulp-less": "^5.0.0",
+        "gulp-pretty-html": "^2.0.10",
+        "gulp-ruby-haml": "^0.0.9"
+    }
+}
