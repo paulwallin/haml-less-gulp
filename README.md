@@ -1,5 +1,5 @@
 # haml-less-gulp
-developement environment for HAML & LESS tieh Gulp
+A small developement environment for HAML & LESS with Gulp + BrowserSync
 
 ### Use:
  - open terminal and go to project root folder
