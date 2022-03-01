@@ -1,9 +1,11 @@
 # haml-less-gulp
 A small developement environment for HAML & LESS with Gulp + BrowserSync
+### Preface:
+Install [Node & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### Use:
  - clone repo
- - open terminal and go to project root folder
+ - open terminal and go to project root folder. Or, open folder in eq. VS Code and run in it's Terminal
  - install: npm install
  - run: gulp
  - haml-files in haml-folder goes to project root as html-files
